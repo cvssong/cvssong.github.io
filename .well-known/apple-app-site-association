@@ -1,0 +1,21 @@
+{
+   "applinks": {
+      "apps": [],
+      "details": [
+         {
+            "appID": "QU48U786PV.com.affin.mobilebanking.sit",
+            "paths": [
+               "NOT /_/*",
+               "/*"
+            ]
+         },
+         {
+            "appID": "QU48U786PV.com.affin.mobilebanking.uat",
+            "paths": [
+               "NOT /_/*",
+               "/*"
+            ]
+         }
+      ]
+   }
+}
