@@ -3,14 +3,14 @@
       "apps": [],
       "details": [
          {
-            "appID": "QU48U786PV.com.affin.mobilebanking.sit",
+            "appID": "QU48U786PV.com.cv.mobilebanking.sit",
             "paths": [
                "NOT /_/*",
                "/*"
             ]
          },
          {
-            "appID": "QU48U786PV.com.affin.mobilebanking.uat",
+            "appID": "QU48U786PV.com.cv.mobilebanking.uat",
             "paths": [
                "NOT /_/*",
                "/*"
