@@ -5,7 +5,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.affin.mobilebanking.sit",
+      "package_name": "com.cv.mobilebanking.sit",
       "sha256_cert_fingerprints": [
         "95:C2:EB:7F:94:AD:AF:D2:FD:FF:C2:C8:19:2F:31:67:CB:84:52:5F:73:14:56:38:5D:FA:95:BE:5E:54:19:5A"
       ]
